@@ -1,0 +1,195 @@
+.header {
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+}
+
+header,
+p,
+h2,
+h3,
+.discover-button,
+.right,
+.footer,
+.white-button,
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    height: 150px;
+}
+
+h2,
+.home,
+#title,
+.name {
+    color: #86B472;
+}
+
+.menu {
+    display: flex;
+    justify-content: right;
+    font-size: 32px;
+    padding: 10px;
+}
+
+.home {
+    text-decoration: underline;
+    font-size: 34px;
+}
+
+.logo {
+    position: absolute;
+    margin: 10px 50px 10px 150px;
+    width: 138px;
+    height: 108px;
+}
+
+.leave {
+    width: 118px;
+    position: absolute;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+a:hover {
+    color: rgb(7, 252, 117);
+}
+
+.discover-button:hover {
+    color: rgb(7, 252, 117);
+}
+
+.white-button:hover {
+    color: rgb(7, 252, 117);
+}
+
+.text {
+    font-size: 20px;
+    padding: 10px 100px 10px 40px;
+}
+
+.text-h3 {
+    font-size: 28px;
+}
+
+main .discover-button,
+.background {
+    background-color: rgba(134, 180, 114, 0.25);
+}
+
+.discover-button {
+    font-weight: bold;
+    font-size: 24px;
+    color: #fff;
+    background: linear-gradient(180.61deg, #98D67D 0.45%, #569F36 99.39%);
+    box-shadow: 0px 19px 42px rgba(134, 180, 114, 0.3);
+    border-radius: 10px;
+    border-color: white;
+    padding: 20px 60px;
+}
+
+.white-button {
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(86, 159, 54);
+    background: white;
+    box-shadow: 0px 19px 42px rgba(134, 180, 114, 0.3);
+    border-radius: 10px;
+    border-color: rgba(86, 159, 54, 0.5);
+    padding: 20px 60px;
+}
+
+.title {
+    font-size: 34px;
+    padding: 50px 50px 10px 120px;
+}
+
+footer .footer {
+    background: linear-gradient(180.60deg, rgba(152, 214, 125, 0.5) 0.45%, rgba(86, 159, 54, 0.5) 99.39%);
+}
+
+.name {
+    font-family: "spartan", sans-serif;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+.part1 {
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    margin-top: 262px;
+    margin-right: 300px;
+    margin-bottom: 420px;
+    margin-left: 150px;
+}
+
+.part2 {
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+}
+
+.part3 {
+    padding-left: 40px;
+}
+
+.first-line-name {
+    font-weight: 800;
+}
+
+footer .footer {
+    font-size: 28px;
+}
+
+.right {
+    font-size: 24px;
+}
+
+.flex-conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plate1-text {
+    width: 50%;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    margin-top: 122px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+    margin-left: 150px;
+}
+
+.plate1-img {
+    width: 980px;
+    margin: 70px 125px 25px 0;
+}
+
+p .text {
+    width: 590px;
+}
+
+.flex-conteiner2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    padding-top: 10px;
+}
